@@ -1,7 +1,7 @@
 ### Hi there! I'm ForegoneReality 👋
 
 ---
-[pusheen](https://github.com/ForgoneReality/ForgoneReality/blob/master/pusheen.gif?raw=true)
+[](https://github.com/ForgoneReality/ForgoneReality/blob/master/pusheen.gif?raw=true)
 
 C++ expert. Coding enthusiast specializing in backend development with a mathematics background. 
 
