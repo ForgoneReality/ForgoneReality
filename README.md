@@ -5,7 +5,7 @@
 
 C++ expert. Coding enthusiast specializing in backend development with a mathematics background. 
 
-I'm a fast learner who's always eager to explore new technologies. Able to switch between perfectionism and pragmatism depending on circumstance. Believer in agile software development, writing clean code, and working together as a team. Always questioning the status quo, and thinking of ways to improve. Able to think outside the box!
+I'm a fast learner who's always eager to explore new technologies. Able to switch between perfectionism and pragmatism depending on circumstance. Believer in agile software development, writing clean code, and working together as a team. Always questioning the status quo, and thinking of ways to improve. Enjoys thinking outside the box.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,js,git,docker,react,cpp,c,linux,py,ruby&perline=5)](https://skillicons.dev)
 
