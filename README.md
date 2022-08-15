@@ -16,3 +16,5 @@ I'm a fast learner who's always eager to explore new technologies. Able to switc
 - ⚡ Fun fact: I don't know what to put for my fun fact
 
 (Socials here once they're set up... Angels List, Linkedin, Github, maybeeee facebook but not insta/twitter. Personal website when made)
+https://icons8.com/icon/set/popular/clouds
+^I like these
